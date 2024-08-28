@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Julia
+- 👀 I’m interested in: Developing Python applications and building systems for managing contacts and inventory.
+- 🌱 I’m currently learning: Advanced Python techniques, including data manipulation and automation.
+- 💞️ I’m looking to collaborate on:  Projects related to Python development, especially those involving automation and system management.
+- 📫 How to reach me Juloures82@gmail.com / Julia.DevSistem@gmail.com or connect with me on [Linkedin](https://br.linkedin.com/in/julia-resende-loures-3259161b9.)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My team won first place in [Technovation Girls](https://www.technovationbrasil.org/) Junior!
